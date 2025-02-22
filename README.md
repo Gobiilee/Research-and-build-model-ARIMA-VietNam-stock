@@ -1,5 +1,6 @@
 1. Giới thiệu đề tài
-Trong thời đại hiện đại, ngành tài chính đóng vai trò quan trọng trong việc hỗ trợ
+
+- Trong thời đại hiện đại, ngành tài chính đóng vai trò quan trọng trong việc hỗ trợ
 và phát triển nền kinh tế của một quốc gia. Việt Nam không phải là ngoại lệ, với một hệ
 thống tài chính đang phát triển mạnh mẽ và đa dạng. Trong bối cảnh này, việc nắm bắt
 thông tin và hiểu rõ về hoạt động của các doanh nghiệp thông qua việc trực quan hóa dữ
